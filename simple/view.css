@@ -1,31 +1,18 @@
-	body{
+﻿	body{
 		background-color:#DFCE9C;
 		font-family: 'ChoosePlace', sans-serif;
 	}
 	.item_td{
 		background-color:#DFCE9C;
 	}
-	h3{
-		margin-left:30px;
-	}
 	.items{
 		position:absolute;
-		top:50px;
-		left:20px;
-		width:310px;
+		top:20px;
+		left:100px;
+		width:300px;
 		border:2px dashed #617DA8;
 		padding:10px;
-		
 	}
-	#android{
-		position:absolute;
-		top:10px;
-		left:400px;
-	}
-	a {
-    outline: none;
-	text-decoration: none !important;
-   }
 	.item{
 		border-bottom: 1.5px solid #B3B3B3
 	}
@@ -70,19 +57,14 @@
 		color:#617DA8;
 		font-weight:bold;
 	}
-	/*
-	span:nth-child(2){
+	span:nth-child(3){
 		color:#378223;
 		font-size: small;
 	}
-	*/
 	.item_tbl_2 span:nth-child(1){
 		color:black;
 	}
 	.item_tbl_1 span:nth-child(1){
 		font-weight: normal;
 		color: grey;
-	}
-	input{
-		font-size: xx-large;
 	}
