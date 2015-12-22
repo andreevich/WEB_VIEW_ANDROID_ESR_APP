@@ -1,0 +1,12 @@
+{
+   "scripts": {
+    "start": "node utf8.js && node esr.js"
+  },
+  "private": true,
+  "dependencies": {
+    "sqlite3": "latest",
+	"iconv-lite":"latest",
+	"express":"latest",
+	"co": "latest"
+  }
+}
